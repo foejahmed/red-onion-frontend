@@ -1,0 +1,7 @@
+.cart-info{
+    margin-top: 150px;
+    text-align: center;
+}
+.cart-info h3, .cart-info button{
+    margin-top: 20px;
+}

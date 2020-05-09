@@ -1,0 +1,10 @@
+.menu-card{
+    margin-top: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+.menu-card:hover{
+    box-shadow: 5px 5px 5px 5px gray;
+    text-decoration: none;
+}

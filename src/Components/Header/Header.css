@@ -1,0 +1,32 @@
+.header{
+    margin-bottom: 70px;
+}
+
+.header img{
+    height: 30px;
+    margin-left: 30px;
+}
+
+.header nav a{
+    text-align: right;
+}
+
+nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height:70px;
+}
+
+nav a, nav p{
+    text-decoration: none;
+    margin-right: 30px;
+    padding: 5px;
+}
+
+nav a:hover{
+    text-decoration: none;
+}
+
+.links{
+    float: right;
+}
